@@ -1,1 +1,1 @@
-# Python-Game-Projects
+Blackjack game following the rules:
